@@ -7,4 +7,4 @@ streamlit
 tenacity
 pydantic
 groq
-opencv-python
+opencv-python-headless
