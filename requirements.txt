@@ -1,0 +1,10 @@
+google-generativeai
+typing-extensions
+python-dotenv
+moviepy
+pydub
+streamlit
+tenacity
+pydantic
+groq
+opencv-python
